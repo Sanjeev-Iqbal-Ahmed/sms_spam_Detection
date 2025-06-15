@@ -1,8 +1,8 @@
-SMS Spam Detection App (GUI)
+<b>SMS Spam Detection App (GUI)</b>
 
 A simple desktop application to detect whether an SMS is Spam or Ham using Machine Learning and NLP.
 
-🔧 Built With:
+<b>Built With:</b>
 
 Python
 
@@ -14,7 +14,7 @@ PySide6 (GUI)
 
 Joblib
 
-✨ Features:
+<b>Features:</b>
 
 Classifies SMS messages as Spam or Ham
 

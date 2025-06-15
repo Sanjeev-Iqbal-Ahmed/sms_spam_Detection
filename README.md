@@ -22,4 +22,4 @@ Shows prediction confidence
 
 User-friendly GUI with dark theme
 
-Comes with a ready-to-use .exe file (no Python needed)
+Comes with a ready-to-use .exe file (inside the gui folder)
